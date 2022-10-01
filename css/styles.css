@@ -1,0 +1,239 @@
+    body {
+        padding-top: 25px;
+        padding-bottom: 35px;
+        background-color: aliceblue;
+        /* background-size: cover; */
+        height: 100%;
+        background-color: hsl(0, 0%, 89%);
+        width: auto;
+    }
+    
+    .side {
+        float: left;
+        border-right: 5px solid lightslategray;
+        padding-top: 35px;
+        padding-bottom: 70px;
+        padding-right: 25px;
+        padding-left: 32px;
+        background-color: hsl(0, 0%, 85%);
+        margin-top: -20px;
+    }
+    
+    .imageres {
+        /* float: left; */
+        margin-left: 40px;
+        border-radius: 100%;
+        background-color: skyblue;
+        height: 225px;
+        width: 210px;
+        border: 4.5px solid cornflowerblue;
+        overflow: hidden;
+    }
+    
+    .imgchange {
+        height: 250px;
+        margin-left: 5px;
+    }
+    
+    .sidecontent {
+        /* float: left; */
+        text-align: left;
+        position: relative;
+        /* margin-left: -190px; */
+    }
+    
+    .sidehead {
+        padding-top: 30px;
+        /* margin-left: -45px; */
+    }
+    
+    .head {
+        margin-top: 35px;
+        margin-left: -28px;
+        font-size: 45px;
+        color: hsl(210, 100%, 45%);
+    }
+    
+    .btn .btn-secondary .dropdown-toggle {
+        width: 500px;
+    }
+    
+    .sidetext {
+        margin-top: 55px;
+    }
+    
+    .text {
+        margin-left: -15px;
+        background-color: hsl(210, 100%, 70%);
+        width: fit-content;
+        border-radius: 10px;
+        padding: 10px;
+        color: whitesmoke;
+        letter-spacing: 2px;
+    }
+    
+    .convert {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .sidetext2 {
+        margin-top: 65px;
+    }
+    
+    #perso {
+        border-collapse: collapse;
+        margin-left: 25px;
+        width: auto;
+    }
+    
+    #perso tr td {
+        padding: 25px;
+        padding-left: 85px;
+        padding-right: 85px;
+        text-align: start;
+        font-size: 20px;
+    }
+    
+    #perso tr:nth-child(even) {
+        background-color: hsl(0, 0%, 84%);
+    }
+    
+    #perso tr:nth-child(odd) {
+        background-color: hsl(210, 100%, 70%);
+        color: white;
+    }
+    /* #perso tr:hover {
+        background-color: slateblue;
+        transition: .5s ease-in;
+    } */
+    
+    .convert:hover {
+        color: whitesmoke;
+    }
+    /* #perso tr:nth-child(even):hover {
+        background-color: slateblue;
+        transition: .1s ease-in;
+        color: white;
+    } */
+    
+    .text3 {
+        /* margin-left: -128px; */
+        margin-top: 45px;
+        margin-left: -35px;
+    }
+    
+    li {
+        list-style: none;
+    }
+    
+    .maine {
+        font-size: 25px;
+        letter-spacing: 2.5px;
+    }
+    
+    .subie {
+        margin-top: -5px;
+        color: red;
+        letter-spacing: 3px;
+    }
+    
+    .wrapper {
+        padding-left: 375px;
+        padding-top: 35px;
+    }
+    
+    h2 {
+        color: blue;
+        font-size: 75px;
+    }
+    
+    .int {
+        font-size: 29px;
+        text-align: justify;
+    }
+    
+    .intro {
+        margin-top: 55px;
+    }
+    
+    .contact {
+        text-decoration: none;
+        color: black;
+        font-size: 20x;
+    }
+    
+    .one {
+        padding-top: 45px;
+        display: flex;
+        font-size: 20px;
+        /* margin-left: -205px; */
+    }
+    
+    .two {
+        display: flex;
+        margin-right: 15px;
+        font-size: 20px;
+    }
+    
+    .num {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .num:hover {
+        color: blueviolet;
+        transition: .4s ease-in;
+    }
+    
+    .three {
+        display: flex;
+        /* margin-top: 30px; */
+        position: relative;
+        font-size: 20px;
+    }
+    
+    .four {
+        /* position: flex; */
+        /* margin-top: 20px; */
+        font-size: 20px;
+    }
+    
+    .headwrap {
+        margin-top: 45px;
+        font-size: 45px;
+        color: hsl(210, 100%, 45%);
+    }
+    
+    .edusub {
+        margin-top: 45px;
+    }
+    
+    ul.main {
+        list-style-type: disc;
+        padding-bottom: 15px;
+        font-size: 30px;
+        letter-spacing: 1px;
+    }
+    
+    ul.sub {
+        list-style-type: disc;
+        margin-left: 150px;
+        font-size: 23px;
+        padding-bottom: 50px;
+        letter-spacing: 1px;
+        color: brown;
+    }
+    
+    .headalign {
+        margin-top: 35px;
+        margin-left: -28px;
+        font-size: 35px;
+        color: blue;
+    }
+    
+    .five {
+        font-size: 20px;
+        margin-left: 25px;
+        margin-top: -80px;
+    }
